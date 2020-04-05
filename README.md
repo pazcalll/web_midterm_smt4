@@ -7,8 +7,7 @@ OUR REPORT IS IN THE "Midterm Report Group.pdf"
 .
 .
 .
-/n
-/nThis project made by:
--> Yazeed Qholili Arifin	(1841720045)
--> Abraham Alier		(1841720226)
--> Ali Abdulsamea Hussen	(1841720224)
+<br/>This project made by:
+<br/>-> Yazeed Qholili Arifin	(1841720045)
+<br/>-> Abraham Alier		(1841720226)
+<br/>-> Ali Abdulsamea Hussen	(1841720224)
